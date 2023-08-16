@@ -1,8 +1,5 @@
-# React + Vite
+# Simple temperature conversion app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Made with vite and react.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/nicholasleexyz/react-temperatures/assets/129869926/b7e438f2-9aa4-4715-bd6c-76a2cc682047)
